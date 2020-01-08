@@ -1,0 +1,1 @@
+Go crash course [video](https://www.youtube.com/watch?v=SqrbIlUwR0U)
